@@ -589,6 +589,7 @@
     <Content Include="Views\Tienda\Compras.cshtml" />
     <Content Include="Views\Home\Categoria.cshtml" />
     <Content Include="Views\Home\Marca.cshtml" />
+    <Content Include="Views\Home\Producto.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
