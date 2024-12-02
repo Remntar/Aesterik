@@ -582,15 +582,12 @@
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\Shared\_Layout_Tienda.cshtml" />
-    <Content Include="Views\Tienda\Index.cshtml" />
-    <Content Include="Views\Tienda\Producto.cshtml" />
     <Content Include="Views\Login\Registrarse.cshtml" />
-    <Content Include="Views\Tienda\Carrito.cshtml" />
-    <Content Include="Views\Tienda\Compras.cshtml" />
     <Content Include="Views\Home\Categoria.cshtml" />
     <Content Include="Views\Home\Marca.cshtml" />
     <Content Include="Views\Home\Producto.cshtml" />
     <Content Include="Views\Home\Tienda.cshtml" />
+    <Content Include="Views\Tienda\Carrito.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
