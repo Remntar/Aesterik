@@ -590,6 +590,7 @@
     <Content Include="Views\Home\Categoria.cshtml" />
     <Content Include="Views\Home\Marca.cshtml" />
     <Content Include="Views\Home\Producto.cshtml" />
+    <Content Include="Views\Home\Tienda.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
